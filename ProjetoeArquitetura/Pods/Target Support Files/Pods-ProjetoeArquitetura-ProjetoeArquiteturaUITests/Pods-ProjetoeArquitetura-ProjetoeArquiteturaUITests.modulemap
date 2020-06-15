@@ -1,0 +1,6 @@
+framework module Pods_ProjetoeArquitetura_ProjetoeArquiteturaUITests {
+  umbrella header "Pods-ProjetoeArquitetura-ProjetoeArquiteturaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

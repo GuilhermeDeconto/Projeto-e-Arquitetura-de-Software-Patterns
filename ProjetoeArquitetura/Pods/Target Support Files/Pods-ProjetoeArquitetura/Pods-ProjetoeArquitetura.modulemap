@@ -1,0 +1,6 @@
+framework module Pods_ProjetoeArquitetura {
+  umbrella header "Pods-ProjetoeArquitetura-umbrella.h"
+
+  export *
+  module * { export * }
+}
