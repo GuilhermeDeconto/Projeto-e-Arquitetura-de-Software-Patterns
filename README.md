@@ -1,0 +1,1 @@
+# Projeto-e-Arquitetura-de-Software-Patterns
